@@ -1,0 +1,8 @@
+const actionTypes = {
+  FETCH_POSTS: 'FETCH_POSTS',
+  FETCH_PHOTOS: 'FETCH_PHOTOS',
+  START_LOADING: 'START_LOADING',
+  FINISH_LOADING: 'FINISH_LOADING',
+}
+
+export default actionTypes
